@@ -73,6 +73,8 @@ NLG focuses on generating meaningful responses or content.
 
 ## Multimodal AI (Text, Image, Speech)
 
+- GPT4o, GPT4, Claude 3.5 and Claude 3.7 Sonnet
+
 Some newer models can handle more than one type of input or output. For example:
 - Image generation: DALL·E, Midjourney
 - Text to speech: ElevenLabs, Bark
