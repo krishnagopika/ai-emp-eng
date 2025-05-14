@@ -100,7 +100,7 @@ Sentiment Analysis, Keyword Extraction and Summarization of product reviews
 - Set Output Boundaries
 - Use Parameter controls
 - Provide context using RAG or CAG.
-- Finetune llms on domain knowlwdge
+- Finetune models on domain knowlwdge
 
 #### security considerations
 
