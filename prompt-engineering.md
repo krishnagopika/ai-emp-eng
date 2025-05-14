@@ -90,6 +90,17 @@ Sentiment Analysis, Keyword Extraction and Summarization of product reviews
    - Instruction Inconsistency
    - Context Inconsistency
    - logical Inconsistency
+  
+
+###  Preventing Hallucinations
+
+- Give Clear, Specific Prompts
+- Guide with Constraints
+- Use Guardrails
+- Set Output Boundaries
+- Use Parameter controls
+- Provide context using RAG or CAG.
+- Finetune llms on domain knowlwdge
 
 #### security considerations
 
@@ -104,4 +115,7 @@ Sentiment Analysis, Keyword Extraction and Summarization of product reviews
 - Bias and Fairness: Safeguarding against biased responses or content that may perpetuate harmful stereotypes.
 
 - Content Moderation: Implementing checks to prevent harmful, illegal, or unethical content generation.
+
+
+
 
