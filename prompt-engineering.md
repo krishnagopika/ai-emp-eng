@@ -55,14 +55,6 @@ A structured approach where the model is prompted to break down the reasoning pr
 
 Combines reasoning and actions where the model alternates between logical reasoning and taking actions like querying external data.
 
-#### usecase
-
-Sentiment Analysis, Keyword Extraction and Summarization of product reviews
-
-```
-
-```
-
 #### hallucinations
 
 - LLM generating factually incorrect or nonsensical information.
